@@ -290,7 +290,7 @@ Don't forget to place the link of where to buy each component inside the quotati
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
 | Item Name | What the item is used for | $Price | <a> Link </a> |
-|Arduino Mega and USB Cord|Used to interact with energy by using code|$20.99|<a> "https://www.amazon.com/ELEGOO-ATmega2560-ATMEGA16U2-Projects-Compliant/dp/B01H4ZLZLQ/ref=asc_df_B01H4ZLZLQ/?tag=hyprod-20&linkCode=df0&hvadid=309743296044&hvpos=&hvnetw=g&hvrand=12310535526926751668&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9031968&hvtargid=pla-490931309987&th=1" </a> |
+|Arduino Mega and USB Cord|Used to interact with energy by using code|$20.99|<a href="https://www.amazon.com/ELEGOO-ATmega2560-ATMEGA16U2-Projects-Compliant/dp/B01H4ZLZLQ/ref=asc_df_B01H4ZLZLQ/?tag=hyprod-20&linkCode=df0&hvadid=309743296044&hvpos=&hvnetw=g&hvrand=12310535526926751668&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9031968&hvtargid=pla-490931309987&th=1"> Link </a> |
 | Mecanum Wheels| These are the wheels of the robot | $29.99 |https://www.amazon.com/Omni-Directional-Hardness-Intelligent-Components-Accessories/dp/B096HWF3S9)|
 |Amazon AA Batteries|Used to power the vedichle|$9.29|(https://www.amazon.com/AmazonBasics-Performance-Alkaline-Batteries-12-Pack/dp/B07KWYGTC6)|
 | Osoyoo IR Transmitters | IR Transmission | $9.96 |https://www.amazon.com/OSOYOO-Infrared-Obstacle-Avoidance-Arduino/dp/B01I57HIJ0?ref_=ast_sto_dp|
