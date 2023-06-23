@@ -295,8 +295,6 @@ Don't forget to place the link of where to buy each component inside the quotati
 
 
 
-| OSOYOO ESP8266 WiFi shield | Allows an Arduino board to connect to the internet using the WiFi library and to read and write an SD card using the SD library | N/A | N/A |
-
 | Part  | Description | Price | Link | 
 | :-: | :-: | :-: | :-: | 
 | Arduino Mega and USB Cord  | Used to interact with energy by using code  | $20.99  | <a href="https://www.amazon.com/ELEGOO-ATmega2560-ATMEGA16U2-Projects-Compliant/dp/B01H4ZLZLQ/ref=asc_df_B01H4ZLZLQ/?tag=hyprod-20&linkCode=df0&hvadid=309743296044&hvpos=&hvnetw=g&hvrand=12310535526926751668&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9031968&hvtargid=pla-490931309987&th=1"> Link </a> | 
