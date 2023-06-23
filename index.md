@@ -308,6 +308,7 @@ Don't forget to place the link of where to buy each component inside the quotati
 | Voltage Meter  | Displays the voltage  | $9.99 | <a href="https://www.amazon.com/RuiLing-Digital-Voltmeter-Electromobile-Motorcycle/dp/B07THN5TRS/ref=sr_1_3_sspa?crid=Q2WW1B12PKDH&keywords=1+voltage+meter&qid=1687377330&sprefix=1+voltage+meter%2Caps%2C145&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"> Link </a> |
 | Servo Motor  | rotate and push parts with precision  | $10.16 | <a href="https://www.amazon.com/Servo-Motors-Sub-Micro-SG51R-piece/dp/B0137LG0KW/ref=sr_1_1_sspa?crid=32UA5D9177IHH&keywords=servo+motor&qid=1687377605&sprefix=servo+moto%2Caps%2C160&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&smid=AM0JQO74J587C"> Link </a> |
 | OSOYOO ESP8266 WiFi shield  | Allows an Arduino board to connect to the internet using the WiFi library and to read and write an SD card using the SD library  | N/A | <a href="www.something.com"> N/A </a> |
+
 # Other Resources/Examples
 One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
 - [Example 1](https://trashytuber.github.io/YimingJiaBlueStamp/)
