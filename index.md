@@ -287,25 +287,30 @@ void loop(){
 Here's where you'll list the parts in your project. To add more rows, just copy and paste the example rows below.
 Don't forget to place the link of where to buy each component inside the quotation marks in the corresponding row after href =. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize this to your project needs. 
 
-| **Part** | **Note** | **Price** | **Link** |
-|:--:|:--:|:--:|:--:|
-| Item Name | What the item is used for | $Price | <a> Link </a> |
-| Arduino Mega and USB Cord|Used to interact with energy by using code | $20.99 | <a href="https://www.amazon.com/ELEGOO-ATmega2560-ATMEGA16U2-Projects-Compliant/dp/B01H4ZLZLQ/ref=asc_df_B01H4ZLZLQ/?tag=hyprod-20&linkCode=df0&hvadid=309743296044&hvpos=&hvnetw=g&hvrand=12310535526926751668&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9031968&hvtargid=pla-490931309987&th=1"> Link </a> |
-| Mecanum Wheels| These are the wheels of the robot | $29.99 | https://www.amazon.com/Omni-Directional-Hardness-Intelligent-Components-Accessories/dp/B096HWF3S9 |
-| Amazon AA Batteries | Used to power the robot | $9.29 | https://www.amazon.com/AmazonBasics-Performance-Alkaline-Batteries-12-Pack/dp/B07KWYGTC6 |
-| Osoyoo IR Transmitters | IR Transmission | $9.96 | https://www.amazon.com/OSOYOO-Infrared-Obstacle-Avoidance-Arduino/dp/B01I57HIJ0?ref_=ast_sto_dp |
-| OSOYOO Infrared Line Tracking Sensor Module| Reflection Tracking | $9.99 | https://www.amazon.com/OSOYOO-5-Line-Tracking-Sensor-Female/dp/B091BRVBXD?ref_=ast_sto_dp |
-| Wires | These aren't the exact wires I used but they are the closest ones I can find. | $9.99 | https://www.amazon.com/Elegoo-EL-CP-004-Multicolored-Breadboard-arduino/dp/B01EV70C78/ref=sr_1_1_sspa?crid=3RA9E5VC4FLUM&keywords=female%2Bwires&qid=1687376818&sprefix=female%2Bwire%2Caps%2C196&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1 |
-| Battery Pack|Holds the AA batteries | $6.48 | https://www.amazon.com/LAMPVPATH-Battery-Holder-Leads-Wires/dp/B07T7MTRZX/ref=sr_1_3?crid=IVV96333EFPX&keywords=4+AA+Battery+Holder&qid=1687377014&s=electronics&sprefix=%2Celectronics%2C144&sr=1-3 |
-| Gear Motor Dual Shaft 3-6V L Shape TT Motor | Turns the wheels | $8.99 | https://www.amazon.com/Antrader-Motor-Shaft-Arduino-Smart/dp/B07S6NFNWZ/ref=sr_1_36?keywords=motors&qid=1687377100&sr=8-36&th=1 |
-| Voltage Meter | Displays the voltage | $9.99 | https://www.amazon.com/RuiLing-Digital-Voltmeter-Electromobile-Motorcycle/dp/B07THN5TRS/ref=sr_1_3_sspa?crid=Q2WW1B12PKDH&keywords=1+voltage+meter&qid=1687377330&sprefix=1+voltage+meter%2Caps%2C145&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1 |
-| Servo Motor | rotate and push parts with precision | $10.16 | https://www.amazon.com/Servo-Motors-Sub-Micro-SG51R-piece/dp/B0137LG0KW/ref=sr_1_1_sspa?crid=32UA5D9177IHH&keywords=servo+motor&qid=1687377605&sprefix=servo+moto%2Caps%2C160&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&smid=AM0JQO74J587C |
+
+
+
+
+
+
+
+
 | OSOYOO ESP8266 WiFi shield | Allows an Arduino board to connect to the internet using the WiFi library and to read and write an SD card using the SD library | N/A | N/A |
 
 | Part  | Description | Price | Link | 
 | :-: | :-: | :-: | :-: | 
-| part a  | does thing b  | $10 | <a href="www.something.com"> Link </a> | 
-| part b  | does thing c  | $10 | <a href="www.something.com"> Link </a> |
+| Arduino Mega and USB Cord  | Used to interact with energy by using code  | $20.99  | <a href="www.something.com"> Link </a> | 
+| part b  | does thing c  | $10 | <a href="[www.something.com](https://www.amazon.com/ELEGOO-ATmega2560-ATMEGA16U2-Projects-Compliant/dp/B01H4ZLZLQ/ref=asc_df_B01H4ZLZLQ/?tag=hyprod-20&linkCode=df0&hvadid=309743296044&hvpos=&hvnetw=g&hvrand=12310535526926751668&hvpone=&hvptwo=&hvqmt=&hvdev=c&hvdvcmdl=&hvlocint=&hvlocphy=9031968&hvtargid=pla-490931309987&th=1)"> Link </a> |
+| Mecanum Wheels  | The wheels of the robot  | $29.99 | <a href="https://www.amazon.com/Omni-Directional-Hardness-Intelligent-Components-Accessories/dp/B096HWF3S9"> Link </a> |
+| Amazon AA Batteries  | powers the circuit  | $9.29 | <a href="https://www.amazon.com/AmazonBasics-Performance-Alkaline-Batteries-12-Pack/dp/B07KWYGTC6"> Link </a> |
+| Osoyoo IR Transmitters  | IR Transmission  | $9.96 | <a href="https://www.amazon.com/OSOYOO-Infrared-Obstacle-Avoidance-Arduino/dp/B01I57HIJ0?ref_=ast_sto_dp"> Link </a> |
+| OSOYOO Infrared Line Tracking Sensor Module  | Reflection Tracking  | $9.99 | <a href="https://www.amazon.com/OSOYOO-5-Line-Tracking-Sensor-Female/dp/B091BRVBXD?ref_=ast_sto_dp"> Link </a> |
+| Wires  | These aren't the exact wires I used but they are the closest ones I can find.  | $9.99 | <a href="https://www.amazon.com/Elegoo-EL-CP-004-Multicolored-Breadboard-arduino/dp/B01EV70C78/ref=sr_1_1_sspa?crid=3RA9E5VC4FLUM&keywords=female%2Bwires&qid=1687376818&sprefix=female%2Bwire%2Caps%2C196&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&th=1"> Link </a> |
+| Battery Pack  | Holds the AA batteries  | $6.48 | <a href="https://www.amazon.com/LAMPVPATH-Battery-Holder-Leads-Wires/dp/B07T7MTRZX/ref=sr_1_3?crid=IVV96333EFPX&keywords=4+AA+Battery+Holder&qid=1687377014&s=electronics&sprefix=%2Celectronics%2C144&sr=1-3"> Link </a> |
+| Gear Motor Dual Shaft 3-6V L Shape TT Motor  | Turns the wheels  | $8.99 | <a href="https://www.amazon.com/Antrader-Motor-Shaft-Arduino-Smart/dp/B07S6NFNWZ/ref=sr_1_36?keywords=motors&qid=1687377100&sr=8-36&th=1"> Link </a> | 
+| Voltage Meter  | Displays the voltage  | $9.99 | <a href="https://www.amazon.com/RuiLing-Digital-Voltmeter-Electromobile-Motorcycle/dp/B07THN5TRS/ref=sr_1_3_sspa?crid=Q2WW1B12PKDH&keywords=1+voltage+meter&qid=1687377330&sprefix=1+voltage+meter%2Caps%2C145&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"> Link </a> |
+| Servo Motor  | rotate and push parts with precision  | $10.16 | <a href="https://www.amazon.com/Servo-Motors-Sub-Micro-SG51R-piece/dp/B0137LG0KW/ref=sr_1_1_sspa?crid=32UA5D9177IHH&keywords=servo+motor&qid=1687377605&sprefix=servo+moto%2Caps%2C160&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&smid=AM0JQO74J587C"> Link </a> |
+| OSOYOO ESP8266 WiFi shield  | Allows an Arduino board to connect to the internet using the WiFi library and to read and write an SD card using the SD library  | N/A | <a href="www.something.com"> N/A </a> |
 # Other Resources/Examples
 One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
 - [Example 1](https://trashytuber.github.io/YimingJiaBlueStamp/)
