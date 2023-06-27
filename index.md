@@ -38,7 +38,7 @@ For your first milestone, describe what your project is and how you plan to buil
 - Challenges you're facing and solving in your future milestones
 - What your plan is to complete your project
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
+My project is a Omniwheel/Mecanum wheel robot. The robot came as a kit with a manual. I basically followed the manual to build the robot. Keep in my mind, it wasn't that simple. It wasn't like "follow the manual and you will have a fully functioning robot in no time!" Not at all. While following the manual, it was at time very frustrating. Sometimes I would put a motor backwards, put the screws the opposite way, or at times have everything literally swapped the opposite way. This is when I had to troubel shoot. My instructor would tell me to list out every possible 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6ndPc5qHybc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
