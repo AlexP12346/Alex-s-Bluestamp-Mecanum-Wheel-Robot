@@ -16,41 +16,27 @@ For your final milestone, explain the outcome of your project. Key details to in
 - A summary of key topics you learned about
 - What you hope to learn in the future after everything you've learned at BSE
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
+My progress on my robot has blown
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-# Second Milestone
-For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
-- Technical details of what you've accomplished and how they contribute to the final goal
-- What has been surprising about the project so far
-- Previous challenges you faced that you overcame
-- What needs to be completed before your final milestone 
-
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
 # First Milestone
-For your first milestone, describe what your project is and how you plan to build it. You can include:
-- An explanation about the different components of your project and how they will all integrate together
-- Technical progress you've made so far
-- Challenges you're facing and solving in your future milestones
-- What your plan is to complete your project
 
 My project is a Omniwheel/Mecanum wheel robot. The robot came as a kit with a manual. I basically followed the manual to build the robot. Keep in my mind, it wasn't that simple. It wasn't like "follow the manual and you will have a fully functioning robot in no time!" Not at all. While following the manual, it was at time very frustrating. Sometimes I would put a motor backwards, put the screws the opposite way, or at times have everything literally swapped the opposite way. This is when I had to troubel shoot. My instructor would tell me to list out every possible problem that there could be in my code, wiring, and robot structure. I would then work through everything in that list hoping to fix the issue. Once I was done with completing the manual and I had a bare bone-fuunctioning robot. I thought about modifications. I asked myself: "How cool would it be if I could make my robot use navigation plans to deliver items to people's door?" When I proposed that idea, my instructor said to think even bigger. So then I said "How cool would it be to have a robot that delivers packages and has a system that allows a drone to land on it?" That is when my instructor said "interesting." So my plan now is to attach a trailer to my robot and later on think about adding a carrier system. I may face challenges like crashing my robot or not knowing why my robot is driving into a wall, but I'm ready to face them!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6ndPc5qHybc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Schematics 
-Here's where you'll put images of your schematics. [Tinkercad](https://www.tinkercad.com/blog/official-guide-to-tinkercad-circuits) and [Fritzing](https://fritzing.org/learning/) are both great resoruces to create professional schematic diagrams, though BSE recommends Tinkercad becuase it can be done easily and for free in the browser. 
+
+Here are images and diagrams of my wiring and motor placement.
 
 ![Headstone Image](Screen Shot 2023-06-21 at 1.43.33 PM.png)
 ![Headstone Image](Screen Shot 2023-06-21 at 1.44.28 PM.png)
 ![Headstone Image](Screen Shot 2023-06-21 at 1.44.59 PM.png)
 
 # Code
-Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs. 
+
+Feel free to take a good look at my code. Keep in mind this the first version of code I wrote for my robot due to this only being Milestone One.
 
 ```c++
 #define SPEED 200    
@@ -284,9 +270,8 @@ void loop(){
 ```
 
 # Bill of Materials
-Here's where you'll list the parts in your project. To add more rows, just copy and paste the example rows below.
-Don't forget to place the link of where to buy each component inside the quotation marks in the corresponding row after href =. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize this to your project needs. 
 
+If you are wondering where I got my materials, here they are. Because my robot came in a kit some of the parts aren't for individual sail. So I found similair items that are approximately the same price.
 
 
 
@@ -308,11 +293,3 @@ Don't forget to place the link of where to buy each component inside the quotati
 | Voltage Meter  | Displays the voltage  | $9.99 | <a href="https://www.amazon.com/RuiLing-Digital-Voltmeter-Electromobile-Motorcycle/dp/B07THN5TRS/ref=sr_1_3_sspa?crid=Q2WW1B12PKDH&keywords=1+voltage+meter&qid=1687377330&sprefix=1+voltage+meter%2Caps%2C145&sr=8-3-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"> Link </a> |
 | Servo Motor  | rotate and push parts with precision  | $10.16 | <a href="https://www.amazon.com/Servo-Motors-Sub-Micro-SG51R-piece/dp/B0137LG0KW/ref=sr_1_1_sspa?crid=32UA5D9177IHH&keywords=servo+motor&qid=1687377605&sprefix=servo+moto%2Caps%2C160&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1&smid=AM0JQO74J587C"> Link </a> |
 | OSOYOO ESP8266 WiFi shield  | Allows an Arduino board to connect to the internet using the WiFi library and to read and write an SD card using the SD library  | N/A | <a href="www.something.com"> N/A </a> |
-
-# Other Resources/Examples
-One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
-- [Example 1](https://trashytuber.github.io/YimingJiaBlueStamp/)
-- [Example 2](https://sviatil0.github.io/Sviatoslav_BSE/)
-- [Example 3](https://arneshkumar.github.io/arneshbluestamp/)
-
-To watch the BSE tutorial on how to create a portfolio, click here.
