@@ -1,12 +1,12 @@
 # Mecanum/Omniwheel Delivery Robot
 
-Are interested to see the mind of an engineer by how they think, build, and 
+Hi! My name is Alex. On this page, you can take a nice look at my engineering experience through my documentation at Camp Bluestamp!
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Alex P | Kehilah Jewish High School | Computer Science and Engineering | Incoming Freshman
 
-**Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
+**Project Picture**
 
 ![Headstone Image](IMG_0470.png)
   
