@@ -8,7 +8,7 @@ Are interested to see the mind of an engineer by how they think, build, and
 
 **Replace the BlueStamp logo below with an image of yourself and your completed project. Follow the guide [here](https://tomcam.github.io/least-github-pages/adding-images-github-pages-site.html) if you need help.**
 
-![Headstone Image](IMG_047.png)
+![Headstone Image](IMG_0470.png)
   
 # Final Milestone
 
